@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "../sorted.h"
+#include "../build/sorted.h"
 
 
 void printer(const int len, const int *x)
