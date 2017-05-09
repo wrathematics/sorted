@@ -6,9 +6,11 @@ Some basic sorting functions implementated in C99.  The implementation is header
 
 ## Installation
 
-Just copy `cvector.h` over to wherever and include it via `#include "cvector.h"`.  The license is extremely permissive (see License section below).
+Build the project by running `make`.  All this does is run some shell scripts turning the `src/` data into standalone files.  The outputs are found in `build/`.  The files are meant to be standalone, so be careful using more than one at a time.  If you want multiple/all of the sort functions, use `sorted.h`.
 
 The default storage type is `int`.  Change the definition of `SortData_t` in the header as appropriate for your needs.
+
+The license is extremely permissive (see License section below).
 
 
 
