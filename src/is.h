@@ -2,9 +2,6 @@
 #define __SORTED_INSERTIONSORT_H__
 
 
-#include "cdefs.h"
-
-
 /* References:
   * https://en.wikipedia.org/wiki/Insertion_sort
 */

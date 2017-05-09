@@ -2,9 +2,6 @@
 #define __SORTED_BUBBLESORT_H__
 
 
-#include "cdefs.h"
-
-
 /* References:
   * https://en.wikipedia.org/wiki/Bubble_sort
   * https://en.wikipedia.org/wiki/Cocktail_shaker_sort

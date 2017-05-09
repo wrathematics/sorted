@@ -2,9 +2,6 @@
 #define __SORTED_QUICKSORT_H__
 
 
-#include "cdefs.h"
-
-
 /* References:
   * https://en.wikipedia.org/wiki/Quicksort
 */
